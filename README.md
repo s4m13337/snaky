@@ -1,7 +1,7 @@
 # Snaky
 Sanky is a terminal based classic snake game created with Python.
 
-# Prerequisites
+## Prerequisites
 
 The script uses curses and random modules which are available in the Python standard library. Therefore there are no special requirements at this point.
 
